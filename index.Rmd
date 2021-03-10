@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Benjamin Lira Luttges"
 output: html_document
 ---
 
@@ -20,7 +20,7 @@ output: html_document
 ::: {.col-sm-6}
 # **Benjamin Lira Luttges**
 
-I am a prospective gradute student that will be starting at the [University of Pennsylvania](upenn.edu) in the Fall of 2021. I will be working with Dr. Angela Duckworth.
+I am a prospective graduate student that will be starting at the [University of Pennsylvania](upenn.edu) in the Fall of 2021. I will be working with Dr. Angela Duckworth.
 
 I hope to contribute to psychological science by improving our understanding on how adversity affects self-control. Hopefully, this knowledge can be used in the future for the development of targeted interventions that help children and adolescents develop strategies to bridge the self-control gap between the rich and the poor.
 
@@ -30,5 +30,7 @@ Here is my [Google Scholar Page](https://scholar.google.com/citations?user=St3vJ
 :::
 
 ::: {.col-sm-6}
-### There is nothing yet to add to this second column
+```{r}
+knitr::include_graphics("Images/Benji.jpg")
+```
 :::

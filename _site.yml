@@ -2,10 +2,10 @@ name: "Benjamin Lira Luttges"
 navbar:
   title: "Benjamin Lira Luttges"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
+    # - text: "Home"
+    #   href: index.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Blog"
+      href: Blog.html
 output_dir: "docs"
