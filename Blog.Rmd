@@ -14,8 +14,14 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE)
 ```
 
-# Welcome
+# Some thoughts on deliberate practice
 
-2020 | 03 | 10 
+2020 \| 03 \| 10
 
-This is my first post. I am testing.
+I learned about deliberate practice some years ago already. The idea stuck with me early on. I think this was because I had already experienced it, without knowing what it was. During my last years of high school, my parents got my little brother a digital keyboard. Soon, I was spending entire afternoons on the weekends putting my fingers where the keyboard lit up. Since I couldn't read notation, I added one note at a time, until an entire passage was memorized. This forced me to keep my objective hyper-specific: add a single note. The aggregation of those tiny objectives, however, was much more meaningful. After some hours of practice, I could play a simplified version of the second movement of Beethoven's Pathetique sonata.
+
+Some years later, when I learned about deliberate practice, I understood why that was so effective. Here are some interesting insights I've gained from practicing deliberately:
+
+-   It does not get any easier. This can be very frustrating, because deliberate practice itself is often *not* enjoyable. Being aware of this is very important, because I often fool myself to avoid the feeling of it being hard. I might noodle around, I might practice what I already know, I might outright procrastinate. Knowing that practice is not supposed to feel fluent is helpful, since we often think that fluency is required for learning (Hint: It's the opposite).
+-   Making deliberate practice into a habit helps deal with the fact that it is hard. Habits help because they make a behavior automatic. If we skip thinking "this will be effortful" we are more likely to follow through.
+-   Not everything is as easy as piano. There's no wonder why Erikson studied practice in certain fields where deliberate practice is easy. Music, chess, and sports make great things to practice deliberately because they are concrete: they have instant feedback, predefined behaviors, they can easily be broken down into components. More abstract endeavors like becoming a good researcher require more work in terms of deciding how we can practice them more effectively.
