@@ -27,10 +27,12 @@ I hope to contribute to psychological science by improving our understanding on 
 ## Useful links
 
 Here is my [Google Scholar Page](https://scholar.google.com/citations?user=St3vJckAAAAJ&hl=en), my active projects document, and my CV.
+
+<button type="button" onclick="window.open('mailto:blira@upenn.edu')">Send me an email!</button>
 :::
 
 ::: {.col-sm-6}
-```{r}
+```{r,echo=FALSE}
 knitr::include_graphics("Images/Benji.jpg")
 ```
 :::
