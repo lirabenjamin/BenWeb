@@ -286,9 +286,15 @@ $(document).ready(function () {
 <div id="useful-links" class="section level2">
 <h2>Useful links</h2>
 <p>Here is my <a href="https://scholar.google.com/citations?user=St3vJckAAAAJ&amp;hl=en">Google Scholar Page</a>, my active projects document, and my CV.</p>
-<button type="button" onclick="window.open(&#39;mailto:blira@upenn.edu&#39;)">
-Send me an email!
+<form action="https://formspree.io/f/mdopqldn" method="POST">
+<label> Your email: <input type="email" name="_replyto"> </label> <label> Your message:
+<textarea name="message"></textarea>
+<p></label></p>
+<!-- your other form fields go here -->
+<button type="submit">
+Send
 </button>
+</form>
 </div>
 </div>
 <div class="col-sm-6">

@@ -28,7 +28,23 @@ I hope to contribute to psychological science by improving our understanding on 
 
 Here is my [Google Scholar Page](https://scholar.google.com/citations?user=St3vJckAAAAJ&hl=en), my active projects document, and my CV.
 
-<button type="button" onclick="window.open('mailto:blira@upenn.edu')">Send me an email!</button>
+<form
+  action="https://formspree.io/f/mdopqldn"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
 :::
 
 ::: {.col-sm-6}
