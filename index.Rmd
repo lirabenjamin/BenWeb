@@ -20,9 +20,11 @@ output: html_document
 ::: {.col-sm-6}
 # **Benjamin Lira Luttges**
 
-I am a prospective graduate student that will be starting at the [University of Pennsylvania](upenn.edu) in the Fall of 2021. I will be working with Dr. Angela Duckworth.
+I am a graduate student at the [University of Pennsylvania](upenn.edu). I am working with Dr. Angela Duckworth.
 
 I hope to contribute to psychological science by improving our understanding on how adversity affects self-control. Hopefully, this knowledge can be used in the future for the development of targeted interventions that help children and adolescents develop strategies to bridge the self-control gap between the rich and the poor.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=blira%40characterlab.org&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Useful links
 
